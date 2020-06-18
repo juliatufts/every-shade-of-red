@@ -1,0 +1,107 @@
+[
+    {
+        "hex": "#7C0A02", 
+        "name": "Barn Red", 
+        "rgb": "(124, 10, 2)"
+    }, 
+    {
+        "hex": "#660000", 
+        "name": "Blood Red", 
+        "rgb": "(102, 0, 0)"
+    }, 
+    {
+        "hex": "#C41E3A", 
+        "name": "Cardinal Red",
+        "rgb": "(196, 30, 58)"
+    }, 
+    {
+        "hex": "#960018", 
+        "name": "Carmine", 
+        "rgb": "(150, 0, 24)"
+    }, 
+    {
+        "hex": "#E23D28",
+        "name": "Chili Red",
+        "rgb": "(226, 61, 40)"
+    },
+    {
+        "hex": "#58111A",
+        "name": "Chocolate Cosmos",
+        "rgb": "(88, 17, 26)"
+    },
+    {
+        "hex": "#E44D2E",
+        "name": "Cinnabar",
+        "rgb": "(228, 77, 48)"
+    },
+    {
+        "hex": "#DC143C",
+        "name": "Crimson",
+        "rgb": "(220, 20, 60)"
+    },
+    {
+        "hex": "#8B0000",
+        "name": "Dark Red",
+        "rgb": "(139, 0, 0)"
+    },
+    {
+        "hex": "#B22222",
+        "name": "Fire Brick",
+        "rgb": "(178, 34, 34)"
+    },
+    {
+        "hex": "#CE2029",
+        "name": "Fire Engine Red",
+        "rgb": "(206, 32, 41)"
+    },
+    {
+        "hex": "#733635",
+        "name": "Garnet",
+        "rgb": "(115, 54, 53)"
+    },
+    {
+        "hex": "#CD5C5C",
+        "name": "Indian Red",
+        "rgb": "(205, 92, 92)"
+    },
+    {
+        "hex": "#E62020",
+        "name": "Lust",
+        "rgb": "(230, 32, 32)"
+    },
+    {
+        "hex": "#A50021",
+        "name": "Madder",
+        "rgb": "(165, 0, 33)"
+    },
+    {
+        "hex": "#800000",
+        "name": "Maroon",
+        "rgb": "(128, 0, 0)"
+    },
+    {
+        "hex": "#A45A52",
+        "name": "Redwood",
+        "rgb": "(164, 90, 82)"
+    },
+    {
+        "hex": "#E0115F",
+        "name": "Ruby",
+        "rgb": "(224, 17, 95)"
+    },
+    {
+        "hex": "#DA2C43",
+        "name": "Rusty Red",
+        "rgb": "(218, 44, 67)"
+    },
+    {
+        "hex": "#FF2400",
+        "name": "Scarlet",
+        "rgb": "(255, 36, 0)"
+    },
+    {
+        "hex": "#E34234", 
+        "name": "Vermillion", 
+        "rgb": "(227, 66, 52)"
+    }
+]
